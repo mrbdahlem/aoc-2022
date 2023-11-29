@@ -1,0 +1,7 @@
+*.class
+input/*
+results/*
+settings.txt
+.idea/*
+out/*
+*.iml

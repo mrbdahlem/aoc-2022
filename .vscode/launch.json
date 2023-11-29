@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Day01Solution",
+            "request": "launch",
+            "mainClass": "Day01Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day02Solution",
+            "request": "launch",
+            "mainClass": "Day02Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day03Solution",
+            "request": "launch",
+            "mainClass": "Day03Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day04Solution",
+            "request": "launch",
+            "mainClass": "Day04Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day05Solution",
+            "request": "launch",
+            "mainClass": "Day05Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day06Solution",
+            "request": "launch",
+            "mainClass": "Day06Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day07Solution",
+            "request": "launch",
+            "mainClass": "Day07Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day08Solution",
+            "request": "launch",
+            "mainClass": "Day08Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day09Solution",
+            "request": "launch",
+            "mainClass": "Day09Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day10Solution",
+            "request": "launch",
+            "mainClass": "Day10Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day11Solution",
+            "request": "launch",
+            "mainClass": "Day11Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day12Solution",
+            "request": "launch",
+            "mainClass": "Day12Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day13Solution",
+            "request": "launch",
+            "mainClass": "Day13Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day14Solution",
+            "request": "launch",
+            "mainClass": "Day14Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day15Solution",
+            "request": "launch",
+            "mainClass": "Day15Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day16Solution",
+            "request": "launch",
+            "mainClass": "Day16Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day17Solution",
+            "request": "launch",
+            "mainClass": "Day17Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day18Solution",
+            "request": "launch",
+            "mainClass": "Day18Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day19Solution",
+            "request": "launch",
+            "mainClass": "Day19Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day20Solution",
+            "request": "launch",
+            "mainClass": "Day20Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day21Solution",
+            "request": "launch",
+            "mainClass": "Day21Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day22Solution",
+            "request": "launch",
+            "mainClass": "Day22Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day23Solution",
+            "request": "launch",
+            "mainClass": "Day23Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day24Solution",
+            "request": "launch",
+            "mainClass": "Day24Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        },
+        {
+            "type": "java",
+            "name": "Day25Solution",
+            "request": "launch",
+            "mainClass": "Day25Solution",
+            "projectName": "AdventOfCode_c363fcde"
+        }
+    ]
+}
