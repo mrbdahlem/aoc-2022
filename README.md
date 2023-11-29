@@ -1,6 +1,4 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13055520)
-
-Here're my fancy solutions to [Advent of Code 2023](https://adventofcode.com/2023)
+Here're my fancy solutions to [Advent of Code 2022](https://adventofcode.com/2022)
 
 ![](https://img.shields.io/badge/days%20completed-0-red) ![](https://img.shields.io/badge/stars%20⭐-0-yellow)
 
