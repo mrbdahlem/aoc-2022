@@ -32,6 +32,6 @@ jobs:
         with:
           commit_message: Update badges
           file_pattern: README.md
-          commit_author_name: GitHub Actions
+          commit_author: GitHub Actions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
