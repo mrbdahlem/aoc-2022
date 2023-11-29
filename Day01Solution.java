@@ -18,21 +18,32 @@ public class Day01Solution extends AocSolver
 
     // Add any member variables you will need for the processed input or
     // to carry between question parts.
-    
+    private int[][] elfCalories;
+    private int[] elfTotal;
     
     
     
     /**
-     * Parse the input text for solving part1 and part2.
+     * Load the day's input then parse it for solving in part1 and part2.
      */
     public void prepare(String input)
     {
         // process the input and initialise instance variables
-
-
+        String[] elves = input.split("\n\n");
+        elfCalories = new int[elves.length][];
+        elfTotal = new int[elves.length];
+        
+        for (int i = 0; i < elves.length; i++) {
+            String[] cals = elves[i].split("\n");
+            elfCalories[i] = new int[cals.length];
+            for (int j = 0; j < cals.length; j++) {
+                elfCalories[i][j] = Integer.parseInt(cals[j]);
+            }
+        }
+        
     }
 
-
+    
     /**
      * Solve part 1 of this day's problem.
      * @return the solution to part 1 of the problem
@@ -41,11 +52,20 @@ public class Day01Solution extends AocSolver
     {
         String solution = "";
         // Solve part 1 for this day here
-
-
+        int maxCals = 0;
+        for (int i = 0 ; i < elfCalories.length; i++) {
+            for (int cals : elfCalories[i]) {
+                elfTotal[i] += cals;
+            }
+            if (elfTotal[i] > maxCals) {
+                maxCals = elfTotal[i];
+            }
+        }
+        
+        solution += maxCals;
         return solution;
     }
-
+        
     /**
      * Solve part 2 of this day's problem.
      * @return the solution to part 2 of the problem
@@ -54,8 +74,14 @@ public class Day01Solution extends AocSolver
     {
         String solution = "";
         // Solve part 2 for this day here
-
-
+     
+        int top3 = 0;
+        Arrays.sort(elfTotal);
+        for (int i = elfTotal.length - 1; i > elfTotal.length - 4; i--) {
+            top3 += elfTotal[i];
+        }
+        
+        solution += top3;
         return solution;
     }
 
