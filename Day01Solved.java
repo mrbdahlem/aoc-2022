@@ -6,7 +6,7 @@ import java.util.*;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Day01Solution extends AocSolver
+public class Day01Solved extends AocSolver
 {
     // Adjust these to test against the proper input file(s)
     public static String SAMPLE_INPUT_FILENAME = "";
