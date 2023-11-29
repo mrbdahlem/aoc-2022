@@ -1,6 +1,6 @@
 Here're my fancy solutions to [Advent of Code 2022](https://adventofcode.com/2022)
 
-![](https://img.shields.io/badge/days%20completed-0-red) ![](https://img.shields.io/badge/stars%20⭐-0-yellow)
+![](https://img.shields.io/badge/days%20completed-15-red) ![](https://img.shields.io/badge/stars%20⭐-31-yellow)
 
 # To Use
 In order to download your input files, you will need to update the secrets for your project. 
